@@ -22,6 +22,9 @@ I dont use material as reference, only understandable logics, so dont expect me 
 
 ### "Why you are not using Java's package name convention?"
 br.com.paulothar.i
+
 br.com.paulothar.dont
+
 br.com.paulothar.like
+
 br.com.paulothar.it
