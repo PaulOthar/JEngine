@@ -11,7 +11,7 @@ None, it is made entirely from Scratch,in fact, you can see the Calculations use
 Yes, my games, althou the performance might not be the best.
 
 ### Why dont you use already existing libaries?
-I am not seeking to reinvent the wheel.The whole point of this project is to understand how the wheel was made, therefore Using someone else's wheel is just wrong and do not serve my purpose.
+you see,i am not seeking to reinvent the wheel but the whole point of this project is to understand how the wheel was made, therefore Using someone else's wheel is just wrong and do not serve my purpose.
 
 ### How you understand the math? are you some sort of Math eldrich god?
 No, im actually pretty braindead, it took me years to understand the math involved, it is way simpler than you might think, the problem is that internet loves to overcomplicate things.
