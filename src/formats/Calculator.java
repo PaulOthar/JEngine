@@ -44,6 +44,11 @@ public class Calculator {
 		return 1/Math.tan(angle/2);
 	}
 	
+	/**
+	 * @param near
+	 * @param far
+	 * @return
+	 */
 	public static double zNormalization(double near,double far) {
 		return far/(far-near);
 	}
